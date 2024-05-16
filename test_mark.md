@@ -688,26 +688,26 @@
     <!--sqlserver, oracle, DB2 -->
      <tr>
       <td>
-        <img align="center" alt="SqlServer" src="https://img.shields.io/badge/SqlServer-3ECF8E?style=for-the-badge&logo=sqlserver&logoColor=white">
+        <img align="center" alt="SqlServer" src="https://img.shields.io/badge/SqlServer-003545?style=for-the-badge&logo=sqlserver&logoColor=white">
       </td>
       <td>
-        <code>![SqlServer](https://img.shields.io/badge/SqlServer-3ECF8E?style=for-the-badge&logo=sqlserver&logoColor=white)</code>
+        <code>![SqlServer](https://img.shields.io/badge/SqlServer-003545?style=for-the-badge&logo=sqlserver&logoColor=white)</code>
       </td>S
     </tr>
     <tr>
       <td>
-        <img align="center" alt="Oracle" src="https://img.shields.io/badge/Oracle-3ECF8E?style=for-the-badge&logo=oracle&logoColor=red">
+        <img align="center" alt="Oracle" src="https://img.shields.io/badge/Oracle-007ACC?style=for-the-badge&logo=oracle&logoColor=red">
       </td>
       <td>
-        <code>![Oracle](https://img.shields.io/badge/Oracle-3ECF8E?style=for-the-badge&logo=oracle&logoColor=red)</code>
+        <code>![Oracle](https://img.shields.io/badge/Oracle-007ACC?style=for-the-badge&logo=oracle&logoColor=red)</code>
       </td>
     </tr>
     <tr>
       <td>
-        <img align="center" alt="DB2" src="https://img.shields.io/badge/DB2-3ECF8E?style=for-the-badge&logo=ibm&logoColor=yellow">
+        <img align="center" alt="DB2" src="https://img.shields.io/badge/DB2-00000F?style=for-the-badge&logo=ibm&logoColor=yellow">
       </td>
       <td>
-        <code>![DB2](https://img.shields.io/badge/DB2-3ECF8E?style=for-the-badge&logo=ibm&logoColor=yellow)</code>
+        <code>![DB2](https://img.shields.io/badge/DB2-00000F?style=for-the-badge&logo=ibm&logoColor=yellow)</code>
       </td>
     </tr>
   </tbody>
@@ -930,10 +930,10 @@
     </tr>
      <tr>
       <td>
-        <img align="center" alt="Power BI" src="https://img.shields.io/badge/powerbi-6DA55F?style=for-the-badge&logo=powerbi&logoColor=white">
+        <img align="center" alt="Power BI" src="https://img.shields.io/badge/powerbi-00000F?style=for-the-badge&logo=powerbi&logoColor=white">
       </td>
       <td>
-        <code>![Power BI](https://img.shields.io/badge/powerbi-6DA55F?style=for-the-badge&logo=powerbi&logoColor=white)</code>
+        <code>![Power BI](https://img.shields.io/badge/powerbi-00000F?style=for-the-badge&logo=powerbi&logoColor=white)</code>
       </td>
     </tr>
   </tbody>
